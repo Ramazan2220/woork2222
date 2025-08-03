@@ -1,0 +1,17 @@
+{
+    "app_version": "269.0.0.18.75",
+    "android_version": "13",
+    "android_release": "13",
+    "dpi": "560dpi",
+    "resolution": "1080x2280",
+    "manufacturer": "google",
+    "device": "Pixel 6",
+    "model": "Pixel 6",
+    "cpu": "qcom",
+    "version_code": "365203812",
+    "user_agent": "Instagram 269.0.0.18.75 Android (13/13; 560dpi; 1080x2280; google; Pixel 6; pixel-6; qcom)",
+    "device_id": "android-8e53ae3bc8723e6f",
+    "phone_id": "da5b3c7f08e3dee82b89aa4ef209715d-cb54e8e7815c14485db0ab090e7b7982",
+    "uuid": "8e5b74e8-7f41-0d81-3ecb-e75b4e7822e1",
+    "device_name": "google Pixel 6"
+}

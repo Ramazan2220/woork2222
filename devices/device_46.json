@@ -1,0 +1,17 @@
+{
+    "app_version": "269.0.0.18.75",
+    "android_version": "10",
+    "android_release": "10",
+    "dpi": "400dpi",
+    "resolution": "1080x2280",
+    "manufacturer": "samsung",
+    "device": "SM-G973F",
+    "model": "SM-G973F",
+    "cpu": "qcom",
+    "version_code": "365203812",
+    "user_agent": "Instagram 269.0.0.18.75 Android (10/10; 400dpi; 1080x2280; samsung; SM-G973F; sm-g973f; qcom)",
+    "device_id": "android-28c2766145066385",
+    "phone_id": "42c31adf4171a49c777c713a75f41585-d3eec422fe783bd2554df98fdb3e7f2d",
+    "uuid": "85c80005-c930-716e-7a1e-722f1c0dead9",
+    "device_name": "samsung SM-G973F"
+}

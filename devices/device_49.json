@@ -1,0 +1,17 @@
+{
+    "app_version": "269.0.0.18.75",
+    "android_version": "13",
+    "android_release": "13",
+    "dpi": "480dpi",
+    "resolution": "1080x2400",
+    "manufacturer": "samsung",
+    "device": "SM-N975F",
+    "model": "SM-N975F",
+    "cpu": "qcom",
+    "version_code": "365203812",
+    "user_agent": "Instagram 269.0.0.18.75 Android (13/13; 480dpi; 1080x2400; samsung; SM-N975F; sm-n975f; qcom)",
+    "device_id": "android-47519116491d726e",
+    "phone_id": "52d4d61394bb43f571e3f8f88066c243-80b417ee85f1b08d8d22a49fb9e3ad03",
+    "uuid": "ae709910-c0df-1b0f-9d9a-bdf5f2333d4c",
+    "device_name": "samsung SM-N975F"
+}

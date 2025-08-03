@@ -1,0 +1,17 @@
+{
+    "app_version": "269.0.0.18.75",
+    "android_version": "10",
+    "android_release": "10",
+    "dpi": "440dpi",
+    "resolution": "1440x3200",
+    "manufacturer": "google",
+    "device": "Pixel 4 XL",
+    "model": "Pixel 4 XL",
+    "cpu": "qcom",
+    "version_code": "365203812",
+    "user_agent": "Instagram 269.0.0.18.75 Android (10/10; 440dpi; 1440x3200; google; Pixel 4 XL; pixel-4-xl; qcom)",
+    "device_id": "android-11eb5061251e30f1",
+    "phone_id": "2e37b4c2760358940346d000ff459c5b-a5bd655715f6a9687464a3a82462ee0b",
+    "uuid": "a741e1fe-9f95-8565-ccdf-49b19f093ad2",
+    "device_name": "google Pixel 4 XL"
+}

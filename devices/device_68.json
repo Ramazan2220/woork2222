@@ -1,0 +1,17 @@
+{
+    "app_version": "269.0.0.18.75",
+    "android_version": "10.0",
+    "android_release": "10.0",
+    "dpi": "400dpi",
+    "resolution": "1080x2280",
+    "manufacturer": "oneplus",
+    "device": "7T",
+    "model": "7T",
+    "cpu": "qcom",
+    "version_code": "365203812",
+    "user_agent": "Instagram 269.0.0.18.75 Android (10.0/10.0; 400dpi; 1080x2280; oneplus; 7T; 7t; qcom)",
+    "device_id": "android-d30ee4d5724f85b1",
+    "phone_id": "6dbec61d502b438b24b3e672b6f5e9a4-981b0d66e8c54fb75897ecda5f532bf3",
+    "uuid": "8d36e21b-9823-aa9d-b1fc-0857155847d8",
+    "device_name": "oneplus 7T"
+}

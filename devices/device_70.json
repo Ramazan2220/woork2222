@@ -1,0 +1,17 @@
+{
+    "app_version": "269.0.0.18.75",
+    "android_version": "13.0",
+    "android_release": "13.0",
+    "dpi": "440dpi",
+    "resolution": "1080x2160",
+    "manufacturer": "samsung",
+    "device": "SM-A505F",
+    "model": "SM-A505F",
+    "cpu": "qcom",
+    "version_code": "365203812",
+    "user_agent": "Instagram 269.0.0.18.75 Android (13.0/13.0; 440dpi; 1080x2160; samsung; SM-A505F; sm-a505f; qcom)",
+    "device_id": "android-8a9579c2ef935d55",
+    "phone_id": "3dcd0f689b4e328faea5ed4ee4486ab8-6c2315163ca2ed53ee6073a55a43b0df",
+    "uuid": "e72b8e53-c0bd-9b0f-6449-24910dfbc9f2",
+    "device_name": "samsung SM-A505F"
+}

@@ -1,0 +1,17 @@
+{
+    "app_version": "269.0.0.18.75",
+    "android_version": "12.0.1",
+    "android_release": "12.0.1",
+    "dpi": "560dpi",
+    "resolution": "1080x2340",
+    "manufacturer": "oneplus",
+    "device": "Nord",
+    "model": "Nord",
+    "cpu": "qcom",
+    "version_code": "365203812",
+    "user_agent": "Instagram 269.0.0.18.75 Android (12.0.1/12.0.1; 560dpi; 1080x2340; oneplus; Nord; nord; qcom)",
+    "device_id": "android-b4929b76ef0e582e",
+    "phone_id": "6aa767cad83f4158b8a693cd45c5b8df-d5b6e7100caa0275cbe8664455490f0e",
+    "uuid": "c0ff567d-8318-a573-3ad2-8470a9e958dd",
+    "device_name": "oneplus Nord"
+}

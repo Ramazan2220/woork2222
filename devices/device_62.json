@@ -1,0 +1,17 @@
+{
+    "app_version": "269.0.0.18.75",
+    "android_version": "10.0",
+    "android_release": "10.0",
+    "dpi": "560dpi",
+    "resolution": "1080x2340",
+    "manufacturer": "oppo",
+    "device": "Reno 6 Pro",
+    "model": "Reno 6 Pro",
+    "cpu": "qcom",
+    "version_code": "365203812",
+    "user_agent": "Instagram 269.0.0.18.75 Android (10.0/10.0; 560dpi; 1080x2340; oppo; Reno 6 Pro; reno-6-pro; qcom)",
+    "device_id": "android-1401c2cb79f6d475",
+    "phone_id": "595cd573670aefeec9dd1ff7bb9a19e2-5db9b155dce74e96506ce151bb6e1a9c",
+    "uuid": "edf28103-ca4d-132e-5b69-dbde8de30f83",
+    "device_name": "oppo Reno 6 Pro"
+}

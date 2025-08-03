@@ -1,0 +1,17 @@
+{
+    "app_version": "269.0.0.18.75",
+    "android_version": "12",
+    "android_release": "12",
+    "dpi": "440dpi",
+    "resolution": "1080x2340",
+    "manufacturer": "samsung",
+    "device": "SM-G991B",
+    "model": "SM-G991B",
+    "cpu": "qcom",
+    "version_code": "365203812",
+    "user_agent": "Instagram 269.0.0.18.75 Android (12/12; 440dpi; 1080x2340; samsung; SM-G991B; sm-g991b; qcom)",
+    "device_id": "android-966325e25d10c850",
+    "phone_id": "f82ebe16f99b86959462cdae457291d4-33fac9ec9a99e455ff9d65be55126946",
+    "uuid": "92f48e46-c91d-ece8-f054-d4899454bb5d",
+    "device_name": "samsung SM-G991B"
+}
